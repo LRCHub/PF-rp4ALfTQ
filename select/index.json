@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "RGTO",
+  "base_artist": "AKLO",
+  "createdAt": "2025-12-19T13:23:25.737866Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RGTO (feat. SALU, H.TEFLON & K DUB SHINE)",
+      "artist": "AKLO",
+      "has_synced": true,
+      "path": "select/01_RGTO_(feat._SALU,_H.TEFLON_&_K_DUB_SHINE)_AKLO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RGTO",
+      "artist": "AKLO",
+      "has_synced": false,
+      "path": "select/pl_01_RGTO_AKLO.txt"
+    }
+  ]
+}
